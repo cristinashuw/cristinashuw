@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, Odoo ERP.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me :
-- IG --> instagram.com/cristinashuw
-- LinkedIn --> linkedin.com/in/cristinatseng
+- IG --> https://instagram.com/cristinashuw
+- LinkedIn --> https://linkedin.com/in/cristinatseng
 
 
 
